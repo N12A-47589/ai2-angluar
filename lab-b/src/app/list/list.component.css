@@ -1,0 +1,9 @@
+button {
+  background-color: rgb(205, 205, 255);
+}
+
+#frame {
+  border: 1px solid black;
+  padding: 10px;
+  box-sizing: border-box;
+}
